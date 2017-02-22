@@ -1,4 +1,4 @@
 rasp-pi-app
 ===========
 
-Master branche push
+Master branche pull
